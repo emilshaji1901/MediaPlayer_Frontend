@@ -1,1 +1,1 @@
-export const serverURl ="http://localhost:7000"
+export const serverURl ="https://mediaplayer2.onrender.com"
