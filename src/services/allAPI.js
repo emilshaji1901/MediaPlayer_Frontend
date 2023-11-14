@@ -29,7 +29,7 @@ export const getAllHistory =async()=>{
 }
 
 //api to delete history
-export const deleteAHistory =async(id)=>{
+export const deleteHistory =async(id)=>{
     return await commonAPI('DELETE',`${serverURl}/history/${id}`,{})
 }
 
